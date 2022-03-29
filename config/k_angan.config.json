@@ -1,0 +1,26 @@
+{
+    "development": {
+        "username": "root",
+        "password": "root",
+        "database": "magri_women",
+        "host": "127.0.0.1",
+        "port": "4317",
+        "dialect": "mysql"
+    },
+    "staging": {
+        "username": "root",
+        "password": "root",
+        "database": "magri_women",
+        "host": "127.0.0.1",
+        "port": "4317",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": "Switch@123",
+        "database": "magri_women",
+        "host": "10.248.216.191",
+        "dialect": "mysql",
+        "connectTimeout": 90000
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "development": {
+        "baseUrl": "http://127.0.0.1:4320/send",
+        "username": "switch",
+        "password": "kzss@123",
+        "msisdn": "7272"
+    },
+    "production": {
+        "baseUrl": "http://10.248.216.156:1401/send",
+        "username": "switch",
+        "password": "kzss@123",
+        "msisdn": "7272"
+    },
+    "staging": {
+        "baseUrl": "http://10.248.216.156:1401/send",
+        "username": "switch",
+        "password": "kzss@123",
+        "msisdn": "7272"
+    }
+}

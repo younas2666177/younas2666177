@@ -1,0 +1,26 @@
+{
+    "development": {
+        "username": "root",
+        "password": "Switch@123",
+        "database": "khushaal_maweshi",
+        "host": "127.0.0.1",
+        "port": "4329",
+        "dialect": "mysql"
+    },
+    "staging": {
+        "username": "root",
+        "password": "root",
+        "database": "khushaal_maweshi",
+        "host": "127.0.0.1",
+        "port": "4329",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": "Switch@123",
+        "database": "khushaal_maweshi",
+        "host": "10.248.216.190",
+        "dialect": "mysql",
+        "connectTimeout": 90000
+    }
+}
